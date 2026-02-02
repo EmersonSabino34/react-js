@@ -1,7 +1,6 @@
 
 import "./CustomInput.scss"
 
-
 const CustomInput = ( { label, value, onChange } ) => {
   return (
     
